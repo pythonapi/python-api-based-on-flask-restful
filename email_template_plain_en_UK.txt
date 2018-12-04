@@ -1,0 +1,10 @@
+${EMAIL_TITLE}:
+
+${EMAIL_CONTENT}
+
+
+Questions? Feedback?
+Visit our Help & Support center - LINK.
+
+© ${CURRENT_YEAR} Company Name Ltd, All rights reserved.
+Company info
